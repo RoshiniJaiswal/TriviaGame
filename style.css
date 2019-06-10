@@ -1,0 +1,17 @@
+#container {
+    background-color: pink;
+    position: relative;
+    text-align: center;
+    width: 90% ;
+    color: black;
+    padding: 30px;
+    margin: auto;
+    bottom: 0;
+}
+
+#questions {
+    margin: 0 auto;
+    width: 80%;
+    padding: 30px;
+    background-color: brown;
+}
